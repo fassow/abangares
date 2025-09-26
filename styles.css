@@ -337,7 +337,7 @@ header.scrolled {
 /* SCROLL DOWN ARROW - POSICIÓN CORREGIDA */
 .scroll-down {
     position: absolute;
-    bottom: -180px;
+    bottom: -100px;
     left: 50%;
     transform: translateX(-50%);
     color: white;
@@ -1411,4 +1411,5 @@ html {
     .menu-toggle {
         z-index: 2001;
     }
+
 }
